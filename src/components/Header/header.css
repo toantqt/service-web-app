@@ -1,0 +1,65 @@
+#header {
+  padding-top: 30px;
+  position: fixed;
+  width: 100%;
+  transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+.sticky {
+  background-color: rgb(190, 30, 45) !important;
+  padding-top: 10px !important;
+}
+.sticky .logo img {
+  width: 49px !important;
+  height: 32px !important;
+}
+.menu-header {
+  transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.sticky .menu-header {
+  float: right;
+}
+
+.logo img {
+  width: 85px;
+  height: 52px;
+}
+
+.menu-item {
+  display: inline-block;
+}
+.menu-item a {
+  text-transform: uppercase;
+  color: white;
+  margin: 38px 6px 38px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.menu-item i {
+  font-size: 12px;
+}
+
+.menu-item a:hover {
+  border-bottom: 1px solid white;
+  color: white;
+  cursor: pointer;
+}
+
+.sub-menu {
+  position: absolute;
+  left: 0;
+  top: 130%;
+  width: 350px;
+  text-align: left;
+  background: #fff;
+  margin: 0;
+  padding: 15px 0;
+  z-index: 9999;
+  box-shadow: 0px 1px 41px rgb(0 0 0 / 8%);
+  opacity: 0;
+  visibility: hidden;
+  border-radius: 5px;
+}

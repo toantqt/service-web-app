@@ -1,0 +1,58 @@
+.intro-wrapper {
+  text-align: center;
+  color: white;
+}
+
+.intro-wrapper .title {
+  font-family: "Oswald", serif;
+  font-size: 60px;
+}
+.intro-wrapper .title:before {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.intro-wrapper .title:before {
+  content: "";
+  position: absolute;
+  height: 3px;
+  width: 60px;
+  max-width: 90%;
+  left: 50%;
+  margin-left: -30px;
+  margin-top: 90px;
+}
+.intro-wrapper .sub-title {
+  font-size: 20px;
+  font-weight: 500;
+}
+.intro-wrapper .action .btn {
+  padding: 17px 40px;
+  border: 1px solid white;
+  font-size: 18px;
+}
+.intro-wrapper .action .btn:hover {
+  background-color: #fcb040 !important;
+  border: #fcb040 !important;
+  color: rgb(190, 30, 45);
+}
+
+.intro-wrapper .action .btn-phone {
+  background-color: rgb(190, 30, 45);
+  border-color: rgb(190, 30, 45);
+}
+
+.intro1-wrapper {
+  text-align: center;
+  background-color: white;
+  margin-top: 300px;
+}
+.intro1-wrapper .header-title {
+  font-size: 20px;
+  color: #be1e2d;
+  font-weight: 500;
+}
+
+.intro1-wrapper .header-title1 {
+  font-size: 40px;
+  font-family: "Nunito", sans-serif;
+}

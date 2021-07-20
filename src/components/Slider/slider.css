@@ -1,0 +1,20 @@
+.slider {
+  background-color: white;
+  padding: 25px;
+}
+.slider .wrapper {
+  box-shadow: 0px 2px 9px 1px #f3f2f2 !important;
+  height: auto;
+}
+.slick-slide img {
+  display: inline-block !important;
+}
+
+.slider-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+.slick-dots {
+  bottom: -40px;
+}
