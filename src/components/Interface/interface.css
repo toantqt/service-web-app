@@ -1,0 +1,47 @@
+.interface-wrapper {
+  background-color: #f1f1f1;
+  padding: 25px;
+  min-height: 400px;
+  text-align: center;
+}
+
+.interface-wrapper .interface-header {
+  font-size: 40px;
+  font-family: "Nunito", sans-serif;
+}
+
+.interface-item .item-wrapper {
+  width: 92%;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: #f1f1f1;
+  box-shadow: 0px 0px 65px 0px rgb(0 0 0 / 6%);
+}
+
+.interface-item .item-wrapper .item {
+  text-align: center;
+}
+
+.interface-item .item-wrapper .item .item-content {
+  background-color: white;
+  padding: 18px;
+}
+.interface-item .item-wrapper .item .item-content .title {
+  font-size: 18px;
+  font-family: "Nunito", sans-serif;
+  transition: all 300ms;
+}
+
+.interface-item .item-wrapper .item .item-content .title:hover {
+  color: rgb(190, 30, 45);
+  border-bottom: 1px solid black;
+  cursor: pointer;
+}
+.interface-btn {
+  font-size: 16px;
+  font-weight: 500;
+}
+.interface-btn:hover span {
+  border-bottom: 1px solid rgb(190, 30, 45);
+  cursor: pointer;
+}

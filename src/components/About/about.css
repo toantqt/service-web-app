@@ -1,0 +1,64 @@
+.about-wrapper {
+  background-color: white;
+  min-height: 300px;
+  padding: 35px;
+}
+
+.about-head-title {
+  font-size: 20px;
+  color: #be1e2d;
+  font-weight: 500;
+}
+.about-title {
+  font-size: 35px;
+  font-family: "Nunito", sans-serif;
+}
+.about-bottom-title {
+  line-height: 2;
+}
+
+.item-icon {
+  background-color: rgb(190, 30, 45);
+  padding: 20px 25px 35px 25px;
+  border-radius: 10px;
+  vertical-align: middle;
+  line-height: 8;
+}
+.item-icon i {
+  font-size: 50px;
+  color: white;
+  vertical-align: middle;
+}
+.item-head-title {
+  font-size: 25px;
+  font-family: "Nunito", sans-serif;
+}
+.item-bottom-title {
+  line-height: 2;
+}
+
+.about-img {
+  margin-top: 100px;
+  position: relative;
+}
+
+.about-img-content {
+  padding: 20px 20px 20px 20px;
+  border-radius: 5px 5px 5px 5px;
+  width: 28%;
+  background-color: white;
+  box-shadow: 0 0 10px 0 rgb(159 172 255 / 50%);
+  position: absolute;
+  margin-top: -50px;
+  margin-left: 20px;
+}
+
+.see-more {
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(190, 30, 45);
+}
+.see-more:hover {
+  border-bottom: 1px solid rgb(190, 30, 45);
+  cursor: pointer;
+}

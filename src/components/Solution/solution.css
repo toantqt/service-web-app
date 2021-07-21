@@ -1,0 +1,118 @@
+.solution-wrapper {
+  text-align: center;
+  padding: 25px;
+  background-color: #f7f7f7;
+  min-height: 400px;
+}
+
+.solution-item {
+  padding: 15px;
+  padding-top: 20px !important;
+}
+.item-3 {
+  padding-top: 0px !important;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.solution-item .item-wrapper {
+  width: 85%;
+  min-height: 300px;
+  margin: auto;
+  box-shadow: 0px 0px 65px rgb(0 0 0 / 6%);
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  padding: 10px 30px 0 30px;
+}
+
+.item-3 .item-wrapper {
+  background-image: url("https://zinpro.vn/style/images/pri.jpg");
+  background-size: cover;
+}
+
+.item-wrapper .item-header {
+  padding: 12px 30px;
+  background-color: transparent;
+  background-image: linear-gradient(90deg, #ff582c 0%, #d71700 100%);
+  border-radius: 0 0 5px 5px;
+}
+
+.item-wrapper .item-header .header-title {
+  font-size: 22px;
+  font-family: "Nunito", sans-serif;
+  color: white;
+}
+
+.witr_pricing_border::before {
+  position: absolute;
+  content: "";
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background: #fde3de;
+  height: 1px;
+}
+
+.witr_pricing_border::after {
+  position: absolute;
+  content: "";
+  left: 50%;
+  bottom: 0;
+  top: 50%;
+  background: #d71700;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+.witr_pricing_border {
+  position: relative;
+  margin-bottom: 46px;
+}
+
+.item-content ul li::before {
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -10px;
+}
+
+.item-content ul {
+  padding-inline-start: 10px !important;
+  text-align: left;
+  list-style: none;
+}
+
+.item-content ul li {
+  margin-top: 10px;
+  color: #333333;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.item-btn {
+  padding: 12px 30px;
+  font-size: 19px;
+  font-weight: 500;
+  border-radius: 5px;
+  color: #d71700 !important;
+  border: 1px solid #d71700;
+  transition: all 500ms;
+}
+.item-btn:hover {
+  background-color: #ff582c;
+  border: none;
+  color: white !important;
+  cursor: pointer;
+}
+
+.item-3 ul li {
+  color: white !important;
+}
+
+.item-3 .item-btn {
+  color: white !important;
+  background-color: #be1e2d !important;
+}

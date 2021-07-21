@@ -3,6 +3,7 @@
   position: fixed;
   width: 100%;
   transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  z-index: 999;
 }
 .wrapper {
   width: 80%;
@@ -26,6 +27,9 @@
 .logo img {
   width: 85px;
   height: 52px;
+}
+.logo:hover {
+  cursor: pointer;
 }
 
 .menu-item {

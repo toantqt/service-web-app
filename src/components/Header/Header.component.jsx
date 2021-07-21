@@ -1,7 +1,9 @@
 import React, { useEffect } from "react";
 import Grid from "@material-ui/core/Grid";
 import "./header.css";
+import { useHistory } from "react-router-dom";
 export default function HeaderComponent() {
+  const history = useHistory();
   useEffect(() => {
     const header = document.getElementById("header");
     const sticky = header.offsetTop;
@@ -16,13 +18,25 @@ export default function HeaderComponent() {
       window.removeEventListener("scroll", scrollCallBack);
     };
   }, []);
+
+  const handleClick = (param) => {
+    if (param === "home") {
+      history.push("/");
+    } else {
+      history.push(`/${param}`);
+    }
+  };
   return (
     <Grid id="header">
       <div className="wrapper">
         <Grid container spacing={1}>
           <Grid item xs={4} lg={2}>
             <div className="logo">
-              <a>
+              <a
+                onClick={() => {
+                  handleClick("home");
+                }}
+              >
                 <img src="https://design24.vn/Images/dichvu/logomenu.png" />
               </a>
             </div>
@@ -39,7 +53,11 @@ export default function HeaderComponent() {
                 </li>
                 <li className="menu-item">
                   {" "}
-                  <a>
+                  <a
+                    onClick={() => {
+                      handleClick("app");
+                    }}
+                  >
                     App Chuyên Dụng <i class="fas fa-chevron-down"></i>
                     <ul className="sub-menu">
                       <li>
@@ -75,7 +93,11 @@ export default function HeaderComponent() {
                 </li>
                 <li className="menu-item">
                   {" "}
-                  <a>
+                  <a
+                    onClick={() => {
+                      handleClick("web");
+                    }}
+                  >
                     Thiết kế website <i class="fas fa-chevron-down"></i>
                   </a>
                 </li>
