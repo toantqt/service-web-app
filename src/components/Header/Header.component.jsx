@@ -44,7 +44,12 @@ export default function HeaderComponent() {
           <Grid item xs={8} lg={10}>
             <div className="menu-header">
               <ul className="menu">
-                <li className="menu-item">
+                <li
+                  className="menu-item"
+                  onClick={() => {
+                    handleClick("home");
+                  }}
+                >
                   <a>Trang chủ</a>
                 </li>
                 <li className="menu-item">
@@ -113,7 +118,12 @@ export default function HeaderComponent() {
                     Tin tức <i class="fas fa-chevron-down"></i>
                   </a>
                 </li>
-                <li className="menu-item">
+                <li
+                  className="menu-item"
+                  onClick={() => {
+                    handleClick("contact");
+                  }}
+                >
                   {" "}
                   <a>Liên hệ</a>
                 </li>

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import HeaderComponent from "../../../components/Header/Header.component";
 import Grid from "@material-ui/core/Grid";
 import OverviewComponent from "../../../components/Overview/Overview.component";
@@ -11,6 +11,9 @@ import SolutionWebComponent from "../../../components/Solution/SolutionWeb.compo
 import Overview4Component from "../../../components/Overview/Overview4.component";
 
 export default function WebPage(props) {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <Grid>
       <HeaderComponent />

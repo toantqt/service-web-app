@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import HeaderComponent from "../../../../components/Header/Header.component";
 import "../../../../assets/css/style.css";
 import "./landing.css";
@@ -10,6 +10,9 @@ import SolutionComponent from "../../../../components/Solution/Solution.componen
 import AboutUSComponent from "../../../../components/About/AboutUS.component";
 import ContactComponent from "../../../../components/Contact/Contact.component";
 export default function LadingPage(props) {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div id="bg-img">
       <HeaderComponent />
