@@ -23,3 +23,28 @@
   border-bottom: 1px solid red;
   cursor: pointer;
 }
+
+.phone-frame {
+  height: 900px;
+  background-size: cover;
+}
+
+.slide-item {
+  width: 100% !important;
+  height: 657px;
+  background-color: #ddd;
+  border-radius: 6px;
+  margin-top: 106px;
+}
+.slide1 {
+  background-image: url("https://zinpro.vn/public/anh1/files/slide-images/trai-nghiem-vuot-troi.webp");
+  background-size: cover;
+}
+.slide2 {
+  background-image: url("https://zinpro.vn/public/anh1/files/slide-images/thiet-ke-da-nen-tang.webp") !important;
+  background-size: cover;
+}
+.slide3 {
+  background-image: url("https://zinpro.vn/public/anh1/files/slide-images/tuong-thich-tren-ios.webp") !important;
+  background-size: cover;
+}

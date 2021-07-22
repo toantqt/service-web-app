@@ -1,6 +1,6 @@
 #bg-img {
   width: 100%;
-  height: 1000px;
+  height: auto;
   background-image: url("https://zinpro.vn/public/anh1/images/gioi-thieu/bg1-min.webp");
   background-size: cover;
 }

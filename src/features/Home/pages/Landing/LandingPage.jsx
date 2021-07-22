@@ -9,23 +9,28 @@ import InterfaceComponent from "../../../../components/Interface/Interface.compo
 import SolutionComponent from "../../../../components/Solution/Solution.component";
 import AboutUSComponent from "../../../../components/About/AboutUS.component";
 import ContactComponent from "../../../../components/Contact/Contact.component";
+import SliderHeadComponent from "../../../../components/Slider/SliderHead.component";
 export default function LadingPage(props) {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <div id="bg-img">
-      <HeaderComponent />
-      <div className="main">
-        <IntroduceComponent />
+    <>
+      <div id="bg-img">
+        <HeaderComponent />
+        <div className="main">
+          <IntroduceComponent />
+          <div className="mt-5">
+            <SliderHeadComponent />
+          </div>
+        </div>
       </div>
-
       <Introduce1Component />
       <SliderComponent />
       <InterfaceComponent param="app" />
       <SolutionComponent />
       <AboutUSComponent />
       <ContactComponent />
-    </div>
+    </>
   );
 }
