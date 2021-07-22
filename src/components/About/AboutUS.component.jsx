@@ -12,17 +12,17 @@ export default function AboutUSComponent(props) {
             </div>
             <div style={{ width: "90%" }} className="mt-2">
               <span className="about-title">
-                ZINPRO - Dẫn Đầu Về Dịch Vụ Phát Triển Ứng Dụng Di Động
+                DESIGN24 - Dẫn Đầu Về Dịch Vụ Phát Triển Ứng Dụng Di Động
               </span>
             </div>
             <div className="mt-2">
               <span className="about-bottom-title">
-                Các chuyên gia của ZinPro có thể cung cấp các giải pháp ứng dụng
-                web và di động cho các lĩnh vực kinh doanh đa dạng, giúp bạn
-                tiết kiệm thời gian, tiền bạc và cơ hội phát triển. Chúng tôi đã
-                có kinh nghiệm hợp tác với doanh nghiệp thuộc mọi quy mô và tự
-                tin sẽ cung cấp cho bạn giải pháp sáng tạo, hiệu quả, bứt phá
-                kinh doanh.
+                Các chuyên gia của Design24 có thể cung cấp các giải pháp ứng
+                dụng web và di động cho các lĩnh vực kinh doanh đa dạng, giúp
+                bạn tiết kiệm thời gian, tiền bạc và cơ hội phát triển. Chúng
+                tôi đã có kinh nghiệm hợp tác với doanh nghiệp thuộc mọi quy mô
+                và tự tin sẽ cung cấp cho bạn giải pháp sáng tạo, hiệu quả, bứt
+                phá kinh doanh.
               </span>
             </div>
             <Grid container spacing={1} className="mt-3">

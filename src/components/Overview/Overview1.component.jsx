@@ -2,7 +2,12 @@ import React from "react";
 import Grid from "@material-ui/core/Grid";
 import "./overview.css";
 import Overview from "./overview.json";
+import { useHistory } from "react-router-dom";
 export default function Overview1Component(props) {
+  const history = useHistory();
+  const handleClick = () => {
+    history.push("/details");
+  };
   let lists;
   if (props?.param === "app") {
     lists = Overview.app.map((e, index) => {
@@ -19,7 +24,7 @@ export default function Overview1Component(props) {
               <span>{e.content}</span>
             </div>
             <div className="mt-5">
-              <span className="overview1-btn">
+              <span className="overview1-btn" onClick={handleClick}>
                 <i className="fas fa-plus-square mr-2"></i> Chi tiết
               </span>
             </div>

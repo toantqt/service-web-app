@@ -19,3 +19,7 @@
 .slick-dots {
   bottom: -40px;
 }
+.slider-btn:hover span {
+  border-bottom: 1px solid red;
+  cursor: pointer;
+}

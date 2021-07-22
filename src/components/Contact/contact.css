@@ -5,6 +5,24 @@
   margin-top: 30px;
   color: white;
 }
+.bg {
+  background-image: url("https://zinpro.vn/style/images/co.jpg") !important;
+  background-size: cover;
+  color: white !important;
+}
+
+.bg input {
+  background-color: white !important;
+}
+.contact-wrapper {
+  background-color: white;
+  min-height: 300px;
+  padding: 35px;
+  margin-top: 30px;
+}
+.contact-wrapper i {
+  color: white;
+}
 .contact-title {
   font-size: 35px;
   font-family: "Nunito", sans-serif;
@@ -18,4 +36,9 @@
 .contact-icon i {
   font-size: 22px;
   line-height: 3;
+}
+
+#input-content {
+  width: 100%;
+  height: 130px;
 }

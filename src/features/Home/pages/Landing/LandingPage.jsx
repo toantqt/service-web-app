@@ -22,11 +22,10 @@ export default function LadingPage(props) {
 
       <Introduce1Component />
       <SliderComponent />
-      <InterfaceComponent />
+      <InterfaceComponent param="app" />
       <SolutionComponent />
       <AboutUSComponent />
       <ContactComponent />
-      <div style={{ height: "500px" }}></div>
     </div>
   );
 }

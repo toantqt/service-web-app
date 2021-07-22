@@ -80,7 +80,8 @@ export default function Overview3Component(props) {
       <div className="overview3-wrapper">
         <div style={{ width: "60%", margin: "0 auto", textAlign: "center" }}>
           <span className="overview2-title">
-            Những Tính Năng Tốt Nhất Mà ZINPRO Mang Lại Cho Doanh Nghiệp Của Bạn
+            Những Tính Năng Tốt Nhất Mà DESIGN24 Mang Lại Cho Doanh Nghiệp Của
+            Bạn
           </span>
         </div>
         <div style={{ width: "80%", margin: "0 auto", textAlign: "center" }}>

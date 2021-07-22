@@ -2,8 +2,13 @@ import React from "react";
 import Grid from "@material-ui/core/Grid";
 import "./interface.css";
 import Interface from "./interface.json";
+import { useHistory } from "react-router-dom";
 
 export default function InterfaceComponent(props) {
+  const history = useHistory();
+  const handleClick = () => {
+    history.push("/details");
+  };
   let lists;
   if (props?.param === "app") {
     lists = Interface.app.map((e, index) => {
@@ -18,7 +23,9 @@ export default function InterfaceComponent(props) {
               </div>
               <div className="item-content">
                 <div>
-                  <span className="title">{e.title}</span>
+                  <span className="title" onClick={handleClick}>
+                    {e.title}
+                  </span>
                 </div>
                 <div className="mt-2">
                   <span style={{ color: "#696687" }}>{e.time}</span>

@@ -2,7 +2,12 @@ import React from "react";
 import Grid from "@material-ui/core/Grid";
 import Slider from "react-slick";
 import "./slider.css";
+import { useHistory } from "react-router-dom";
 export default function SliderComponent(props) {
+  const history = useHistory();
+  const handleClick = () => {
+    history.push("/details");
+  };
   const settings = {
     dots: true,
     infinite: true,
@@ -76,14 +81,16 @@ export default function SliderComponent(props) {
                 </span>
               </div>
               <div
-                className="mt-4 mb-3"
+                className="mt-4 mb-3 slider-btn"
                 style={{ textAlign: "center", fontSize: "18px" }}
               >
-                <i
-                  className="fas fa-plus-square mr-2"
-                  style={{ color: "red" }}
-                ></i>
-                Chi tiết
+                <span onClick={handleClick}>
+                  <i
+                    className="fas fa-plus-square mr-2"
+                    style={{ color: "red" }}
+                  ></i>
+                  Chi tiết
+                </span>
               </div>
             </div>
           );
