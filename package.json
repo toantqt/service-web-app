@@ -2,7 +2,7 @@
   "name": "client-thiep-d24",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://toantqt.github.io/service-web-app/",
+  "homepage": "https:tvc.design24h.vn",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@material-ui/data-grid": "^4.0.0-alpha.33",
