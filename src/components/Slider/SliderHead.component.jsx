@@ -14,7 +14,7 @@ export default function SliderHeadComponent(props) {
   return (
     <Grid>
       <div className="intro-wrapper">
-        <Grid container spacing={1}>
+        {/* <Grid container spacing={1}>
           <Grid item lg={3}></Grid>
           <Grid item lg={6}>
             <div
@@ -32,7 +32,7 @@ export default function SliderHeadComponent(props) {
             </div>
           </Grid>
           <Grid item lg={3}></Grid>
-        </Grid>
+        </Grid> */}
       </div>
     </Grid>
   );
