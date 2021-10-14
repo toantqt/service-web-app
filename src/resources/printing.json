@@ -1,0 +1,379 @@
+{
+    "ivory-300": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"HỘP NẮP GÀI - IVORY 300",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-san-pham-i300/hop-giay-i300.png",
+                "content":[]
+            },
+            {
+                "name":"IN GIÁ RẺ IVORY 300",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-san-pham-i300/igr-i300.png",
+                "content":[]
+            },
+            {
+                "name":"SẢN PHẨM IVORY 300 KHÁC",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-san-pham-i300/folder-the-tu-i300.png",
+                "content":[]
+            }
+            
+        ]
+    },
+    "c300": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"C300 - CÁN MỜ",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/c300-mang-1.png",
+                "content":[]
+            },
+            {
+                "name":"C300 - KHÔNG MÀNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/c300-ko-mang-1.png",
+                "content":[]
+            },
+            {
+                "name":"DANH THIẾP - SỐ LƯỢNG NHIỀU",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/card-mang-1.png",
+                "content":[]
+            },
+            {
+                "name":"DANH THIẾP - SỐ LƯỢNG ÍT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/card-ko-mang-1.png",
+                "content":[]
+            }
+           
+            
+        ]
+    },
+
+    "hop-giay": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"HỘP GIẤY IVORY 300",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/Hop giay/hop-i300.png",
+                "content":[]
+            },
+            {
+                "name":"HỘP GIẤY CÁC LOẠI",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/Hop giay/001.png",
+                "content":[]
+            }
+        ]
+    },
+    "nhan-decal": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"IN NHÃN TAGS",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/ban-decal-be-san/in-tag.png",
+                "content":["Đa dạng kiểu bế: tròn, vuông, oval,.","Ứng dụng tags quần áo, giày dép, túi xách","Nhãn kèm theo sản phẩm để giới thiệu,..."]
+            },
+            {
+                "name":"IN NHÃN DECAL",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/ban-decal-be-san/in-nhan.png",
+                "content":["Sản phẩm có sẵn lớp keo dán","Nhiều chất liệu decal: giấy, nhựa, kraft,..","Đa dạng về kiểu bế: tròn, vuông, oval,.."]
+            },
+            {
+                "name":"DECAL IN SẴN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-ban-decal-in-san/mui-ten.png",
+                "content":["Decal in size số, size chữ, mũi tên,..","Sản phẩm đã bế sẵn, chỉ lột và dán","Đóng gói 10 tờ/xấp"]
+            },
+            {
+                "name":"DECAL TRẮNG BẾ SẴN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/ban-decal-be-san/mua-decal-trang.png",
+                "content":["Sản phẩm đã bế sẵn, chỉ lột và dán","Có 23 kích thước bo góc và bế tròn","Đóng gói 10 tờ/xấp"]
+            }
+        ]
+    },
+
+    "bao-thu": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"22 X 12 - F100 - NẮP 3.5",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-01.png",
+                "content":["Đựng Voucher khổ A6, tờ rơi A4 gấp 3 ..."]
+            },
+            {
+                "name":"22 X 12 - C115 - NẮP 3.5",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-06.png",
+                "content":["Đựng Voucher khổ A6, tờ rơi A4 gấp 3 ...","Khẳng định uy tín doanh nghiệp"]
+            },
+            {
+                "name":"22 X 12 - KRAFT - NẮP 3.5",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-07.png",
+                "content":["Đựng Voucher khổ A6, tờ rơi A4 gấp 3 ..."]
+            },
+            {
+                "name":"22 X 12 - KRAFT - NẮP 4",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-08.png",
+                "content":["Giấy màu nâu vàng, sang trọng cổ điển","Dẻo dai, thân thiện hơn với môi trường","Đựng Voucher khổ A6, tờ rơi A4 gấp 3 ..."]
+            },
+            {
+                "name":"22 X 12 - F100 - NẮP 4",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-02.png",
+                "content":["Đựng Voucher khổ A6, tờ rơi A4 gấp 3 ..."]
+            },
+            {
+                "name":"22 X 12 - F180 - NẮP GÀI 6.5",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-03.png",
+                "content":["Kết hợp in nội dung thư mời ở mặt trong","Mang đến sự sang trọng, nổi bật cho DN","Mang đến sự sang trọng, nổi bật cho DN"]
+            },
+            {
+                "name":"22 X 12 - F100 - NẮP 11",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-04.png",
+                "content":["Tăng diện tích quảng cáo trên nắp"]
+            },
+            {
+                "name":"12 X 22 - F100 - NẮP 3",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-05.png",
+                "content":["Phù hợp đựng thư mời, thiệp mừng ..."]
+            },
+            {
+                "name":"12.5 X 17.5 - F180",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-09.png",
+                "content":["Đựng được khổ A6 hoặc A5 gấp đôi","Đựng thiệp hoặc thư mời","Mang đến sự sang trọng, khác biệt"]
+            },
+            {
+                "name":"13 X 16.5 - F180",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-10.png",
+                "content":["Đựng được khổ A6 hoặc A5 gấp đôi","Đựng thiệp hoặc thư mời","Mang đến sự sang trọng, khác biệt"]
+            },
+            {
+                "name":"16 X 16 - GIẤY FORT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-11.png",
+                "content":["Đựng thiệp, thư mời, tờ rơi khổ vuông"]
+            },
+            {
+                "name":"16 X 23 - GIẤY FORT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-12.png",
+                "content":["Đựng được khổ A5, A4 gấp đôi"]
+            },
+            {
+                "name":"25 X 34.7 - GIẤY FORT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-fort.png",
+                "content":["Đựng được khổ A4, A3 gấp đôi"]
+            },
+            {
+                "name":"25 X 34.7 - GIẤY C150",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-c150.png",
+                "content":["Đựng được khổ A4, A3 gấp đôi"]
+            },
+            {
+                "name":"25 X 34.7 - GIẤY KRAFT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-14.png",
+                "content":["Dẻo dai, chịu lực, thân thiện môi trường"]
+            },
+            {
+                "name":"BAO LÌ XÌ",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-15.png",
+                "content":["Kích thước 8 x 16 cm, giấy C150","Có thể đựng Voucher để tạo khác biệt","Sử dụng như món quà tri ân tặng KH"]
+            },
+            {
+                "name":"BAO ĐỰNG THƯỚC",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bao-thu/bao-thu-16.png",
+                "content":["Kích thước 31 x 3.2 cm, giấy F180","Có thể đựng thước nhựa 31 x 3 cm","Kết hợp với thước nhựa làm quà tặng"]
+            }
+        ]
+    },
+    "danh-thiep": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"SỐ LƯỢNG NHIỀU",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/1-sl-n.png",
+                "content":[]
+            },
+            {
+                "name":"SỐ LƯỢNG ÍT -GIAO HÀNG NHANH",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/2-sl-it.png",
+                "content":[]
+            },
+            {
+                "name":"CARD 1 HỘP - KHÔNG MÀNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/card-1-ko.png",
+                "content":[]
+            },
+            {
+                "name":"CARD 1 HỘP - CÁN MÀNG BÓNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/card-1-bong.png",
+                "content":[]
+            },
+            {
+                "name":"CARD GIẤY ĐEN - IN MÀU TRẮNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-danh-thiep/4.png",
+                "content":[]
+            },
+            {
+                "name":"NHÃN DANH THIẾP",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-nhan-danh-thiep/nhan-danh-thiep-1.png",
+                "content":[]
+            }
+        ]
+    },
+    "to-roi": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"TỜ RƠI C100",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-decal-giay-to-roi/1-st.png",
+                "content":[]
+            },
+            {
+                "name":"TỜ RƠI C150",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-decal-giay-to-roi/2-st.png",
+                "content":[]
+            },
+            {
+                "name":"TỜ RƠI C230",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-decal-giay-to-roi/3-st.png",
+                "content":[]
+            },
+            {
+                "name":"TỜ GẤP",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-decal-giay-to-roi/4-st.png",
+                "content":[]
+            },
+            {
+                "name":"TỜ GẤP C300",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-decal-giay-to-roi/4-st.png",
+                "content":[]
+            },
+            {
+                "name":"TỜ RƠI A4 bế kiểu",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-to-roi/to-roi-kieu.png",
+                "content":[]
+            }
+        ]
+    },
+    "bieu-mau": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"BIỂU MẪU GIẤY FORT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bieu-mau-fort/bieu-mau-fort-ok.png",
+                "content":[]
+            },
+            {
+                "name":"BIỂU MẪU CARBONLESS",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-bieu-mau-fort/bieu-mau-fort-ok.png",
+                "content":[]
+            }
+        ]
+    },
+    "catalogue": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"CATALOGUE ĐÓNG KIM",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-Catalogue-Kim/ca-kim-st.png",
+                "content":[]
+            },
+            {
+                "name":"CATALOGUE ĐÓNG KIM - SL NHIỀU",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-Catalogue-Kim/ca-kim-st.png",
+                "content":[]
+            },
+            {
+                "name":"CATALOGUE KEO GÁY",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-cata-loxo/ca-keo-st.png",
+                "content":[]
+            },
+            {
+                "name":"CATALOGUE LÒ XO",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-cata-loxo/ca-keo-st.png",
+                "content":[]
+            }
+        ]
+    },
+    "thiep": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"THIỆP CƯỚI",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-thiep/thiep-cuoi.jpg",
+                "content":[]
+            },
+            {
+                "name":"THIỆP CHÚC MỪNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-thiep/thiep-chuc-mung.jpg",
+                "content":[]
+            },
+            {
+                "name":"THIỆP 1 TỜ",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-thiep/thiep-1-to.jpg",
+                "content":[]
+            },
+            {
+                "name":"THIỆP KHÁC",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-thiep/thiep-khac.jpg",
+                "content":[]
+            }
+        ]
+    },
+    "lich": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"LỊCH BÀN LÒ XO - ĐẾ CARTON",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich/avatar-lich-de-ban-loxo.png",
+                "content":[]
+            },
+            {
+                "name":"LỊCH BÀN - ĐẾ IVORY",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich/Avatar-lich-de-ban-chu-a.png",
+                "content":[]
+            },
+            {
+                "name":"LỊCH BÀN CỘT DÂY",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich/LICH%20BAN%20COT%20DAY.png",
+                "content":[]
+            },
+            {
+                "name":"STANDEE LỊCH",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich/avatar-standee.png",
+                "content":[]
+            },
+            {
+                "name":"STANDEE LỊCH CẮM BÚT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich/avatar-lich-cam-but.png",
+                "content":[""]
+            },
+            {
+                "name":"LỊCH TƯỜNG 1 TỜ",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich/Avatar.png",
+                "content":[""]
+            },
+            {
+                "name":"LỊCH TƯỜNG 1 MẶT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich/Avatar-lich-tuong-mot-mat-loxo.png",
+                "content":[""]
+            },
+            {
+                "name":"LỊCH TƯỜNG 2 MẶT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich-tuong-cot-day/Avatar-lich-tuong-2-mat.png",
+                "content":[""]
+            },
+            {
+                "name":"LỊCH TƯỜNG LÒ XO GIỮA",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich-treo/Avatar%20Lich%20Treo%20Tuong%20lo%20xo%20giua.png",
+                "content":[""]
+            },
+            {
+                "name":"LỊCH TREO KHỔ NHỎ",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich-treo/Avatar%20Lich%20Treo%20Kho%20nho.png",
+                "content":[""]
+            },
+            {
+                "name":"LỊCH XÉ",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-lich/lich-xe-2020.png",
+                "content":[""]
+            }
+        ]
+    }
+}
+
+
