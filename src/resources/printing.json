@@ -47,7 +47,6 @@
             
         ]
     },
-
     "hop-giay": {
         "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
         "lists": [
@@ -88,7 +87,6 @@
             }
         ]
     },
-
     "bao-thu": {
         "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
         "lists": [
@@ -373,7 +371,318 @@
                 "content":[""]
             }
         ]
+    },
+    "tui-giay": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"TÚI GIẤY C230",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-tui-giay-c300/tui-c230.png",
+                "content":[]
+            },
+            {
+                "name":"TÚI ĐÁY VUÔNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-tui-giay-c300/tui-day-vuong.png",
+                "content":[]
+            },
+            {
+                "name":"TÚI CÓ NẮP",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-tui-giay-c300/tui-co-nap.png",
+                "content":[]
+            },
+            {
+                "name":"TÚI QUAI XÁCH",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-tui-giay-c300/tui-quai-xach.png",
+                "content":[]
+            },
+            {
+                "name":"TÚI GIẤY KRAFT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-tui-giay-c300/tui-kra.png",
+                "content":[]
+            },
+            {
+                "name":"TÚI ĐỰNG LỊCH",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-tui-dung-lich/tui-dung-lich.png",
+                "content":[]
+            }
+        ]
+    },
+    "nhan-giay": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"NHÃN TREO BẾ THẲNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/avatar/nhan-tre-be-thang.png",
+                "content":["Bế thẳng, có đục lỗ & xỏ dây"]
+            },
+            {
+                "name":"NHÃN TREO BO GÓC",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/avatar/nhan-treo-bo-goc.png",
+                "content":["Bo 4 góc, có đục lỗ 3 mm", "Ứng dụng cho Tags quần áo, giày dép,..."]
+            },
+            {
+                "name":"NHÃN TREO BẾ TRÒN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-tui-giay-c300/tui-co-nap.png",
+                "content":["Bế hình tròn, có đục lỗ 4 mm", "Mang lại sự độc đáo & ấn tượng"]
+            },
+            {
+                "name":"NHÃN TREO BẾ OVAL",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/avatar/nhan-treo-be-oval.png",
+                "content":["Bế hình Oval, có đục lỗ 7 mm", "Tăng sự cá tính cho Tags sản phẩm"]
+            },
+            {
+                "name":"NHÃN TREO BẾ BK01",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/avatar/nhan-treo-be-bk-01.png",
+                "content":["Có đục lỗ 3 mm", "Ứng dụng phổ biến trong Tags thời trang"]
+            },
+            {
+                "name":"NHÃN TREO BẾ BK02",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/avatar/nhan-treo-be-bk-02.png",
+                "content":["Có đục lỗ 4 mm", "Sự khác biệt cho Tags sản phẩm"]
+            },
+            {
+                "name":"NHÃN TREO GẤP ĐÔI",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/avatar/nhan-treo-gap-doi.png",
+                "content":["Cấn 1 đường, có đục lỗ 4 mm", "Nâng cao sự trang trọng cho sản phẩm"]
+            },
+            {
+                "name":"NHÃN CỔ CHAI",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/avatar/nhan-co-chai.png",
+                "content":["Đường kính cổ chai 3.8 cm & 4.5 cm", "Tăng độ tin cậy cho sản phẩm"]
+            },
+            {
+                "name":"NHÃN GIẤY",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/avatar/nhan-giay.png",
+                "content":["Bổ sung thông tin kèm theo sản phẩm"]
+            }
+        ]
+    },
+    "menu": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"MENU LÒ XO",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-menu/avatar-loxo-1.png",
+                "content":[]
+            },
+            {
+                "name":"MENU GẤP",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-menu/avatar-gap-1.png",
+                "content":[]
+            },
+            {
+                "name":"MENU ĐỨNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-menu/avatar-dung.png",
+                "content":[]
+            },
+            {
+                "name":"MENU ĐƠN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-menu/avatar-menu-don.png",
+                "content":[]
+            },
+            {
+                "name":"MENU NHỰA",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-menu/avatar-nhua.png",
+                "content":[]
+            },
+            {
+                "name":"MENU NHỰA ĐÓNG LÒ XO",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-menu/avatar-nhua-loxo.png",
+                "content":[]
+            }
+        ]
+    }, 
+    "in-tren-nhua": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"MENU NHỰA",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-menu/avatar-nhua.png",
+                "content":[]
+            },
+            {
+                "name":"THƯỚC ĐO",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-thuoc-nhua/avatar-thuoc-1.png",
+                "content":[]
+            }
+        ]
+    },
+    "poster": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"POSTER SỐ LƯỢNG ÍT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-poster/poster-knho-sli.png",
+                "content":[]
+            },
+            {
+                "name":"POSTER SỐ LƯỢNG NHIỀU",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-poster/poster-kl-slnhieu.png",
+                "content":[]
+            }
+        ]
+    },
+    "cuoi-hoi": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"THIỆP CƯỚI",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-shop-cuoi/1-thiep-cuoi-1.png",
+                "content":[]
+            },
+            {
+                "name":"LÓT LY",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-shop-cuoi/3-lot-ly-1.png",
+                "content":[]
+            },
+            {
+                "name":"STICKER",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-shop-cuoi/4-sticker-1-ok.png",
+                "content":[]
+            },
+            {
+                "name":"DECAL DÁN CHAI",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-shop-cuoi/5-dan-chai.png",
+                "content":[]
+            },
+            {
+                "name":"STANDEE ĐỂ BÀN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-standee-de-ban/standee.png",
+                "content":[]
+            },
+            {
+                "name":"GIẤY LÓT BÀN ĂN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-giay-lot-ban-an/avatar-glba.png",
+                "content":[]
+            },
+            {
+                "name":"MENU ĐỨNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-menu/avatar-dung.png",
+                "content":[]
+            },
+            {
+                "name":"MENU GẤP",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-shop-cuoi/menu-gap-1.png",
+                "content":[]
+            }
+        ]
+    },
+    "ly-su": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"IN LY SỨ TRẮNG - HỘP KHÔNG IN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-ly-su/1-ko-in.png",
+                "content":[]
+            },
+            {
+                "name":"IN LY SỨ TRẮNG - HỘP CÓ IN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-ly-su/2-co-in.png",
+                "content":[]
+            }
+        ]
+    },
+    "quat": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"QUẠT NAN NHỰA",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-quat-nhua/1-ok.png",
+                "content":[]
+            },
+            {
+                "name":"QUẠT GIẤY CÁN NHỰA",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-quat-nhua/2-ok.png",
+                "content":[]
+            },
+            {
+                "name":"QUẠT NHỰA CÁN NHỰA",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-quat-nhua/3-okkk.png",
+                "content":[]
+            }
+        ]
+    },
+    "photobook": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"PHOTOBOOK KEO GÁY",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-photobook/keo.png",
+                "content":[]
+            },
+            {
+                "name":"PHOTOBOOK LÒ XO",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-photobook/lo-xo-1.png",
+                "content":[]
+            },
+            {
+                "name":"PHOTOBOOK BẤM KIM",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-photobook/kim-3.png",
+                "content":[]
+            }
+        ]
+    },
+    "standee": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"STANDEE ĐỂ BÀN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/San-pham-giay-I300/standee-de-ban.png",
+                "content":[]
+            },
+            {
+                "name":"STANDEE LỊCH",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/San-pham-giay-I300/standee-lich.png",
+                "content":[]
+            },
+            {
+                "name":"STANDEE LỊCH CẮM BÚT",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/San-pham-giay-I300/standee-lich-cam-but.png",
+                "content":[]
+            },
+            {
+                "name":"ẢNH ĐỂ BÀN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/San-pham-giay-I300/anh-de-ban.png",
+                "content":[]
+            }
+        ]
+    },
+    "voucher": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"VOUCHER - COUPON",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-voucher/voucher.png",
+                "content":[]
+            },
+            {
+                "name":"VOUCHER CUỐN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-voucher/voucher-cuon.png",
+                "content":[]
+            }
+        ]
+    },
+    "tap-vo": {
+        "banner": "https://songtao.vn/PhoTos/Categories/Small/Hop%20giay/hop-i300-giam-10-2.png",
+        "lists": [
+            {
+                "name":"TẬP SINH VIÊN",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-panopas/1-tap.png",
+                "content":[]
+            },
+            {
+                "name":"SỔ BÌA CỨNG",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-panopas/2-sc.png",
+                "content":[]
+            },
+            {
+                "name":"SỔ BÌA MỀM",
+                "image":"https://songtao.vn/PhoTos/Categories/Small/2-panopas/3-sm.png",
+                "content":[]
+            }
+        ]
     }
+    
 }
 
 
