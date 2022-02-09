@@ -1,93 +1,111 @@
 {
     "app": [ {
-        "image":"https://zinpro.vn/public/anh1/images/icon/icon-thiet-ke-app-ban-hang.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_ban_hang_ypotes.png",
         "title":"Thiết Kế App Bán Hàng",
-        "content":"App Bán Hàng hay còn gọi là ứng dụng bán hàng là giải pháp bán hàng online toàn diện (3 trong 1) mà ZINPRO xây dựng và cung cấp cho khách hàng đang hoạt động kinh doanh ở bất kì lĩnh vực nào."
+        "content":"App Bán Hàng hay còn gọi là ứng dụng bán hàng là giải pháp bán hàng online toàn diện (3 trong 1) mà ZINPRO xây dựng và cung cấp cho khách hàng đang hoạt động kinh doanh ở bất kì lĩnh vực nào.",
+        "slug":"app-ban-hang"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/doanh-nghiep.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_doanh_nghiep_j9eugv.png",
         "title":"Thiết Kế App Doanh Nghiệp",
-        "content":"Một app doanh nghiệp/ quản lý khách hàng có nội dung đa phương tiện có thể hiện đại hóa hình ảnh của công ty và cung cấp cho các đối tác và khách hàng danh mục sản phẩm có sẵn, các tùy chọn hỗ trợ và các sản phẩm in kỹ thuật số khác"
+        "content":"Một app doanh nghiệp/ quản lý khách hàng có nội dung đa phương tiện có thể hiện đại hóa hình ảnh của công ty và cung cấp cho các đối tác và khách hàng danh mục sản phẩm có sẵn, các tùy chọn hỗ trợ và các sản phẩm in kỹ thuật số khác",
+        "slug":"app-doanh-nghiep"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/tai-chinh.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/app_tin_dung_fstpxl.png",
         "title":"Thiết Kế App Tài Chính",
-        "content":"Để không ngừng nâng cao khả năng cạnh tranh trên thị trường, các doanh nghiệp, cần phải điều tiết hệ thống quản lý và kiểm soát chi phí trực tuyến hợp lý. Sử dụng app tài chính/ quản lý chi tiêu đang là lựa chọn của nhiều doanh nghiệp."
+        "content":"Để không ngừng nâng cao khả năng cạnh tranh trên thị trường, các doanh nghiệp, cần phải điều tiết hệ thống quản lý và kiểm soát chi phí trực tuyến hợp lý. Sử dụng app tài chính/ quản lý chi tiêu đang là lựa chọn của nhiều doanh nghiệp.",
+        "slug":"app-tai-chinh"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/suc-khoe.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/app_y_te_wewkyb.png",
         "title":"Thiết Kế App Y Tế",
-        "content":"Việc công nghệ phát triển, phần đông mọi người sử dụng Smartphone có kết nối mạng đã giúp cho con người sáng tạo ra chiếc App chăm sóc sức khỏe rất nhanh nhạy với nhiều chức năng theo dõi sức khỏe cực tốt."
+        "content":"Việc công nghệ phát triển, phần đông mọi người sử dụng Smartphone có kết nối mạng đã giúp cho con người sáng tạo ra chiếc App chăm sóc sức khỏe rất nhanh nhạy với nhiều chức năng theo dõi sức khỏe cực tốt.",
+        "slug":"app-y-te"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/giao-duc.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_edu_ltm31q.png",
         "title":"Thiết Kế App Giáo Dục",
-        "content":"App giáo dục là ứng dụng học tập mạnh mẽ trên nền tảng di động giúp nhà trường quản lý việc đào tạo, kiểm tra, giám sát giáo viên, giảng viên, học viên, học sinh, sinh viên mọi lúc mọi nơi một cách khoa học và hiệu quả"
+        "content":"App giáo dục là ứng dụng học tập mạnh mẽ trên nền tảng di động giúp nhà trường quản lý việc đào tạo, kiểm tra, giám sát giáo viên, giảng viên, học viên, học sinh, sinh viên mọi lúc mọi nơi một cách khoa học và hiệu quả",
+        "slug":"app-giao-duc"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/du-lich.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_du_lich_jxm7c7.png",
         "title":"Thiết Kế App Du Lịch",
-        "content":"Công cụ để lập kế hoạch du lịch hoàn hảo hoặc những chuyến công tác trong và ngoài nước: giúp bạn tìm kiếm, đặt trước vé máy bay, nhà hàng, khách sạn… từ hàng triệu đề xuất của người dùng trước đó, so sánh trải nghiệm, giá cả để chọn được những dịch vụ tốt với mức chi phí thấp, các chương trình ưu đãi hấp dẫn. Hỗ trợ nhiều..."
+        "content":"Công cụ để lập kế hoạch du lịch hoàn hảo hoặc những chuyến công tác trong và ngoài nước: giúp bạn tìm kiếm, đặt trước vé máy bay, nhà hàng, khách sạn… từ hàng triệu đề xuất của người dùng trước đó, so sánh trải nghiệm, giá cả để chọn được những dịch vụ tốt với mức chi phí thấp, các chương trình ưu đãi hấp dẫn. Hỗ trợ nhiều...",
+        "slug":"app-du-lich"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/an-uong-goi-mon.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_food_liicoi.png",
         "title":"Thiết Kế App Ăn Uống",
-        "content":"Giải pháp hoàn hảo cho việc đặt đồ ăn, nước uống mang đi. Giao diện thân thiện, dễ thao tác, tha hồ lựa chọn menu, gọi món, đặt đồ trực tuyến từ hàng ngàn nhà hàng, quán ăn đối tác trên cả nước. Ứng dụng cho phép người dùng tìm kiếm các nhà hàng xung gần bạn hoặc theo khu vực thông qua chia sẻ vị trí, lựa chọn hình thức thanh toán phù hợp,..."
+        "content":"Giải pháp hoàn hảo cho việc đặt đồ ăn, nước uống mang đi. Giao diện thân thiện, dễ thao tác, tha hồ lựa chọn menu, gọi món, đặt đồ trực tuyến từ hàng ngàn nhà hàng, quán ăn đối tác trên cả nước. Ứng dụng cho phép người dùng tìm kiếm các nhà hàng xung gần bạn hoặc theo khu vực thông qua chia sẻ vị trí, lựa chọn hình thức thanh toán phù hợp,...",
+        "slug":"app-an-uong"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/app-van-chuyen.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/app_van_chuyen_ygsmbn.png",
         "title":"Thiết Kế App Vận Chuyển",
-        "content":"Ứng dụng chia sẻ di chuyển để có những chuyến đi nhanh chóng, đáng tin cậy bất kể ngày hay đêm. Chỉ cần chạm để yêu cầu, bạn có thể dễ dàng thực hiện các tiện ích như: tìm kiếm địa điểm nhanh chóng, chính xác, đặt xe, báo giá và lộ trình cụ thể, thông tin tài xế, theo dõi chi tiết tình trạng chuyến đi, lựa chọn phương thức thanh toán thuận..."
+        "content":"Ứng dụng chia sẻ di chuyển để có những chuyến đi nhanh chóng, đáng tin cậy bất kể ngày hay đêm. Chỉ cần chạm để yêu cầu, bạn có thể dễ dàng thực hiện các tiện ích như: tìm kiếm địa điểm nhanh chóng, chính xác, đặt xe, báo giá và lộ trình cụ thể, thông tin tài xế, theo dõi chi tiết tình trạng chuyến đi, lựa chọn phương thức thanh toán thuận...",
+        "slug":"app-van-chuyen"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/app-hen-ho-ket-noi.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_hen_ho_atetpk.png",
         "title":"Thiết Kế App Hẹn Hò",
-        "content":"Ứng dụng hẹn hò, kết nối con người trên toàn phạm vi Việt Nam và thế giới. Tạo không gian lý tưởng cho những người độc thân muốn tìm kiếm nửa kia hoàn hảo, hẹn hò hoặc giao lưu, kết bạn bốn phương với trải nghiệm thú vị. Chúng tôi sở hữu cơ sở dữ liệu lớn về các thành viên, cung cấp cho người dùng các tiện ích tìm kiếm chi tiết dựa theo..."
+        "content":"Ứng dụng hẹn hò, kết nối con người trên toàn phạm vi Việt Nam và thế giới. Tạo không gian lý tưởng cho những người độc thân muốn tìm kiếm nửa kia hoàn hảo, hẹn hò hoặc giao lưu, kết bạn bốn phương với trải nghiệm thú vị. Chúng tôi sở hữu cơ sở dữ liệu lớn về các thành viên, cung cấp cho người dùng các tiện ích tìm kiếm chi tiết dựa theo...",
+        "slug":"app-hen-ho"
     }]
     ,
     "web": [ {
-        "image":"https://zinpro.vn/public/anh1/images/icon/icon-thiet-ke-app-ban-hang.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_ban_hang_kieixa.png",
         "title":"Thiết Kế Website Bán Hàng",
-        "content":"Chúng tôi cung cấp các giải pháp thương mại điện hiện đại cho các website B2B & B2C trực tuyến, tích hợp cổng thanh toán. Thiết kế cửa hàng trực tuyến thân thiện, đáp ứng cho các công cụ tìm kiếm; nhiều tính năng; cung cấp cho bạn toàn quyền kiểm soát hoạt động của cửa hàng trực tuyến để có thể tập trung vào tăng trưởng doanh thu; đơn giản..."
+        "content":"Chúng tôi cung cấp các giải pháp thương mại điện hiện đại cho các website B2B & B2C trực tuyến, tích hợp cổng thanh toán. Thiết kế cửa hàng trực tuyến thân thiện, đáp ứng cho các công cụ tìm kiếm; nhiều tính năng; cung cấp cho bạn toàn quyền kiểm soát hoạt động của cửa hàng trực tuyến để có thể tập trung vào tăng trưởng doanh thu; đơn giản...",
+        "slug":"web-ban-hang"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/doanh-nghiep.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_doanh_nghiep_s2mbel.png",
         "title":"Thiết Kế Website Doanh Nghiệp",
-        "content":"Chúng tôi tạo ra các trang web chuyên nghiệp, đẹp về mặt thẩm mỹ và chất lượng cao cho các doanh nghiệp với các giải pháp tiết kiệm chi phí và thời gian. Ngoài trải nghiệm cá nhân hóa cao cho khách hàng trong nước, chúng tôi xây dựng nên hệ sinh thái giao tiếp cởi mở, sẵn sàng phục vụ nhu cầu của khách hàng trên toàn thế giới. Zinpro tập trung vào khả..."
+        "content":"Chúng tôi tạo ra các trang web chuyên nghiệp, đẹp về mặt thẩm mỹ và chất lượng cao cho các doanh nghiệp với các giải pháp tiết kiệm chi phí và thời gian. Ngoài trải nghiệm cá nhân hóa cao cho khách hàng trong nước, chúng tôi xây dựng nên hệ sinh thái giao tiếp cởi mở, sẵn sàng phục vụ nhu cầu của khách hàng trên toàn thế giới. Zinpro tập trung vào khả...",
+        "slug":"web-doanh-nghiep"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/tai-chinh.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372697/service-web-app/web/web_tai_chinh_odww1p.png",
         "title":"Thiết Kế Website Tài Chính",
-        "content":"Thiết kế website tài chính, chứng khoán, tiền tệ với giao diện đẹp mắt, chuyên nghiệp, chuẩn SEO và đầy đủ các chức năng để doanh nghiệp của bạn có thể vận hành hoạt động tốt nhất và đẩy mạnh hoạt động Marketing Online một cách hiệu quả. Chọn ZinPro để được tư vấn các dịch vụ tận tình, chu đáo, hỗ trợ xử lý kỹ thuật 24/7."
+        "content":"Thiết kế website tài chính, chứng khoán, tiền tệ với giao diện đẹp mắt, chuyên nghiệp, chuẩn SEO và đầy đủ các chức năng để doanh nghiệp của bạn có thể vận hành hoạt động tốt nhất và đẩy mạnh hoạt động Marketing Online một cách hiệu quả. Chọn ZinPro để được tư vấn các dịch vụ tận tình, chu đáo, hỗ trợ xử lý kỹ thuật 24/7.",
+        "slug":"web-tai-chinh"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/suc-khoe.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_bac_si_kvfvby.png",
         "title":"Thiết Kế Website Y Tế",
-        "content":"ZinPro tạo ra các trang web tốt nhất cho các chuyên gia y tế, bác sĩ, bệnh viện và phòng khám với các tính năng nổi bật như phân phối các chuyên khoa dựa trên dịch vụ mà bạn cung cấp, đồng thời thiết lập tính năng bán hàng trực tuyến cho các dịch vụ đó; quảng cáo và tối ưu hóa SEO, cập nhật và sao lưu dữ liệu thường xuyên, lưu trữ tốc độ cao và..."
+        "content":"ZinPro tạo ra các trang web tốt nhất cho các chuyên gia y tế, bác sĩ, bệnh viện và phòng khám với các tính năng nổi bật như phân phối các chuyên khoa dựa trên dịch vụ mà bạn cung cấp, đồng thời thiết lập tính năng bán hàng trực tuyến cho các dịch vụ đó; quảng cáo và tối ưu hóa SEO, cập nhật và sao lưu dữ liệu thường xuyên, lưu trữ tốc độ cao và...",
+        "slug":"web-y-te"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/giao-duc.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_education_fzfzmf.png",
         "title":"Thiết Kế Website Giáo Dục",
-        "content":"Thiết kế, phát triển các website giáo dục nhằm mục đích hướng tới cho người học cách ứng dụng công nghệ vào học tập với các tính năng hiện đại như điều hướng trong website, xây dựng các module khoa học để cung cấp các tài liệu, video bài giảng, kiểm tra - đánh giá… cho từng nhóm đối tượng, qua đó phát triển khả năng tự học. Giúp các tổ..."
+        "content":"Thiết kế, phát triển các website giáo dục nhằm mục đích hướng tới cho người học cách ứng dụng công nghệ vào học tập với các tính năng hiện đại như điều hướng trong website, xây dựng các module khoa học để cung cấp các tài liệu, video bài giảng, kiểm tra - đánh giá… cho từng nhóm đối tượng, qua đó phát triển khả năng tự học. Giúp các tổ...",
+        "slug":"web-giao-duc"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/du-lich.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_di_lich_y79xvc.png",
         "title":"Thiết Kế Website Du Lịch",
-        "content":"Phát triển các website/blog cho các công ty du lịch, hướng dẫn viên du lịch để xuất bản các chuyến tham quan, gói du lịch, trải nghiệm, cuộc phiêu lưu và các hoạt động du lịch đang hoạt động của bạn. Khách hàng có thể dễ dàng tiếp cận website của bạn dựa trên đề xuất tìm kiếm theo khu vực, vị trí. Đây cũng là nơi cung cấp đầy đủ các thông tin..."
+        "content":"Phát triển các website/blog cho các công ty du lịch, hướng dẫn viên du lịch để xuất bản các chuyến tham quan, gói du lịch, trải nghiệm, cuộc phiêu lưu và các hoạt động du lịch đang hoạt động của bạn. Khách hàng có thể dễ dàng tiếp cận website của bạn dựa trên đề xuất tìm kiếm theo khu vực, vị trí. Đây cũng là nơi cung cấp đầy đủ các thông tin...",
+        "slug":"web-du-lich"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/an-uong-goi-mon.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_food_uzjyb0.png",
         "title":"Thiết Kế Website Ẩm Thực",
-        "content":"Thiết kế website ẩm thực giúp doanh nghiệp tiếp cận khách hàng gần hơn, mang tinh hoa ẩm thực Việt đến mọi nhà, khách hàng gọi món, đặt bàn, tìm hiểu thực đơn, cập nhận ưu đãi nhanh chóng và tiện ích. Thiết kế website trực tuyến đẳng cấp, độc đáo, riêng biệt, tạo ấn tượng tốt và thu hút khách hàng, khẳng định vị thế thương hiệu."
+        "content":"Thiết kế website ẩm thực giúp doanh nghiệp tiếp cận khách hàng gần hơn, mang tinh hoa ẩm thực Việt đến mọi nhà, khách hàng gọi món, đặt bàn, tìm hiểu thực đơn, cập nhận ưu đãi nhanh chóng và tiện ích. Thiết kế website trực tuyến đẳng cấp, độc đáo, riêng biệt, tạo ấn tượng tốt và thu hút khách hàng, khẳng định vị thế thương hiệu.",
+        "slug":"web-am-thuc"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/app-van-chuyen.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_shipper_hiu07a.png",
         "title":"Thiết Kế Website Vận Chuyển",
-        "content":"Thiết kế website vận chuyển đang là xu hướng hoạt động và phát triển hiện nay. Đem đến giao diện đẹp, chuyên nghiệp, khoa học, đẳng cấp, thu hút và tích hợp mọi tiện ích tối ưu cho khách hàng trong tầm tay."
+        "content":"Thiết kế website vận chuyển đang là xu hướng hoạt động và phát triển hiện nay. Đem đến giao diện đẹp, chuyên nghiệp, khoa học, đẳng cấp, thu hút và tích hợp mọi tiện ích tối ưu cho khách hàng trong tầm tay.",
+        "slug":"web-van-chuyen"
     },
     {
-        "image":"https://zinpro.vn/public/anh1/images/icon/app-hen-ho-ket-noi.png",
+        "image":"https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_hen_ho_mcjdp2.png",
         "title":"Thiết Kế Website Hẹn Hò",
-        "content":"Ứng dụng hẹn hò, kết nối con người trên toàn phạm vi Việt Nam và thế giới. Tạo không gian lý tưởng cho những người độc thân muốn tìm kiếm nửa kia hoàn hảo, hẹn hò hoặc giao lưu, kết bạn bốn phương với trải nghiệm thú vị. Chúng tôi sở hữu cơ sở dữ liệu lớn về các thành viên, cung cấp cho người dùng các tiện ích tìm kiếm chi tiết dựa theo..."
+        "content":"Ứng dụng hẹn hò, kết nối con người trên toàn phạm vi Việt Nam và thế giới. Tạo không gian lý tưởng cho những người độc thân muốn tìm kiếm nửa kia hoàn hảo, hẹn hò hoặc giao lưu, kết bạn bốn phương với trải nghiệm thú vị. Chúng tôi sở hữu cơ sở dữ liệu lớn về các thành viên, cung cấp cho người dùng các tiện ích tìm kiếm chi tiết dựa theo...",
+        "slug":"web-hen-ho"
     }]
 }

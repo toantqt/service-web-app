@@ -1,11 +1,15 @@
 .intro-wrapper {
+  width: 70%;
   text-align: center;
   color: white;
+  position: absolute;
+  top: 14%;
+  left: 15%;
 }
 
 .intro-wrapper .title {
   font-family: "Oswald", serif;
-  font-size: 60px;
+  font-size: 30px;
 }
 .intro-wrapper .title:before {
   background-color: rgba(255, 255, 255, 0.8);
@@ -22,11 +26,13 @@
   margin-top: 90px;
 }
 .intro-wrapper .sub-title {
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 14px;
+}
+.intro-wrapper .action {
+  padding-top: 390px;
 }
 .intro-wrapper .action .btn {
-  padding: 17px 40px;
+  padding: 8px 13px;
   border: 1px solid white;
   font-size: 18px;
 }

@@ -1,0 +1,27 @@
+.modal-btn {
+  text-align: center;
+  margin-top: 20px;
+}
+.modal-btn a {
+  padding: 15px 25px 15px 25px;
+  border-radius: 6px;
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.modal-btn .btn-yes {
+  background-color: green;
+}
+
+.modal-btn .btn-no {
+  background-color: rgb(190, 30, 45);
+  border-color: rgb(190, 30, 45);
+}
+.modal-btn a:hover {
+  cursor: pointer;
+  color: white;
+}
+.MuiDialog-paper {
+  background-color: #080808 !important;
+}

@@ -5,8 +5,8 @@ import "./slider.css";
 import { useHistory } from "react-router-dom";
 export default function SliderComponent(props) {
   const history = useHistory();
-  const handleClick = () => {
-    history.push("/details");
+  const handleClick = (slug) => {
+    history.push(`/details/${slug}`);
   };
   const settings = {
     dots: true,
@@ -18,50 +18,59 @@ export default function SliderComponent(props) {
   };
   const arr = [
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/icon-thiet-ke-app-ban-hang.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_ban_hang_ypotes.png",
       title1: "App Bán Hàng",
       title2: "Thương Mại Điện Tử",
+      slug: "app-ban-hang",
     },
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/doanh-nghiep.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_doanh_nghiep_j9eugv.png",
       title1: "App Doanh Nghiệp ",
       title2: "Quản Lý Khách Hàng",
+      slug: "app-doanh-nghiep",
     },
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/tai-chinh.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/app_tin_dung_fstpxl.png",
       title1: "App Tài Chính",
       title2: "Quản Lý Chi Tiêu",
+      slug: "app-tai-chinh",
     },
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/suc-khoe.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/app_y_te_wewkyb.png",
       title1: "App Y Tế",
       title2: "Chăm Sóc Sức Khỏe",
+      slug: "app-y-te",
     },
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/giao-duc.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_edu_ltm31q.png",
       title1: "App Giáo Dục",
       title2: "Hệ Thống Đào Tạo",
+      slug: "app-giao-duc",
     },
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/du-lich.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_du_lich_jxm7c7.png",
       title1: "App Du Lịch",
       title2: "Nhà Hàng Khách Sạn",
+      slug: "app-du-lich",
     },
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/app-an-uong.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_food_liicoi.png",
       title1: "App Ăn Uống",
       title2: "Đặt Bàn Gọi Món",
+      slug: "app-an-uong",
     },
 
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/app-van-chuyen.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/app_van_chuyen_ygsmbn.png",
       title1: "App Vận Chuyển",
       title2: "Giải Pháp Logicstic",
+      slug: "app-van-chuyen",
     },
     {
-      img: "https://zinpro.vn/public/anh1/files/icon/app-hen-ho.png",
+      img: "https://res.cloudinary.com/serviced24/image/upload/v1644288770/service-web-app/app/app_hen_ho_atetpk.png",
       title1: "App Hẹn Hò",
       title2: "Kết Nối Con Người",
+      slug: "app-hen-ho",
     },
   ];
   return (
@@ -84,7 +93,11 @@ export default function SliderComponent(props) {
                 className="mt-4 mb-3 slider-btn"
                 style={{ textAlign: "center", fontSize: "18px" }}
               >
-                <span onClick={handleClick}>
+                <span
+                  onClick={() => {
+                    handleClick(e.slug);
+                  }}
+                >
                   <i
                     className="fas fa-plus-square mr-2"
                     style={{ color: "red" }}

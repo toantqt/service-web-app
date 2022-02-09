@@ -13,10 +13,10 @@ export default function Overview2Component(props) {
                 Tại Sao Khách Hàng Lựa Chọn Thiết Kế App Của Design24?
               </span>
             </div>
-            <div style={{ width: "100%" }} className="ml-4 mt-3">
+            <div style={{ width: "100%" }} className="ml-4 mt-5">
               <img
-                src="https://scontent.fpnh22-4.fna.fbcdn.net/v/t1.6435-9/118709134_146245340473933_6336088213487547270_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=PM21n828NtAAX-4w6H8&_nc_ht=scontent.fpnh22-4.fna&oh=1a2815f694ae7730aa192dfadfc90602&oe=60FC75A6"
-                width="80%"
+                src="https://res.cloudinary.com/serviced24/image/upload/v1644374078/service-web-app/question_aygjl6.png"
+                width="60%"
                 style={{ margin: "0 auto" }}
               />
             </div>

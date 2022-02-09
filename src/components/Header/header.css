@@ -18,9 +18,11 @@
   height: 32px !important;
 }
 .menu-header {
-  transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  line-height: 3;
+  transition: all 1.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 .sticky .menu-header {
+  line-height: 2 !important;
   float: right;
 }
 

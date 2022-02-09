@@ -27,9 +27,7 @@ export default function ContactComponent(props) {
                 </Grid>
                 <Grid item lg={10}>
                   <div>
-                    <span style={{ fontWeight: 500 }}>
-                      0835-299-922 <br /> support@zinpro.vn
-                    </span>
+                    <span style={{ fontWeight: 500 }}>0784.888.009</span>
                   </div>
                 </Grid>
               </Grid>
@@ -43,8 +41,14 @@ export default function ContactComponent(props) {
                   <Grid item lg={10}>
                     <div>
                       <span style={{ fontWeight: 500 }}>
-                        Tầng 4 Tòa Nhà HUD3 Tower, 121-123 Tô Hiệu, Phường
-                        Nguyễn Trãi, Quận Hà Đông, Thành Phố Hà Nội
+                        TP.HCM: 302A Nguyễn Thượng Hiền, Phường 5, Quận Phú
+                        Nhuận
+                      </span>
+                    </div>
+                    <div>
+                      <span style={{ fontWeight: 500 }}>
+                        CẦN THƠ: 151/73 Trần Hoàng Na, Phường Hưng Lợi, Quận
+                        Ninh Kiều
                       </span>
                     </div>
                   </Grid>
@@ -53,7 +57,10 @@ export default function ContactComponent(props) {
             </div>
           </Grid>
           <Grid item lg={6}>
-            <img src="https://zinpro.vn/style/img/map.webp" width="100%" />
+            <img
+              src="https://res.cloudinary.com/serviced24/image/upload/v1644392672/service-web-app/map_irkwgr.jpg"
+              width="100%"
+            />
           </Grid>
         </Grid>
       </div>

@@ -5,8 +5,8 @@ import Overview from "./overview.json";
 import { useHistory } from "react-router-dom";
 export default function Overview1Component(props) {
   const history = useHistory();
-  const handleClick = () => {
-    history.push("/details");
+  const handleClick = (slug) => {
+    history.push(`/details/${slug}`);
   };
   let lists;
   if (props?.param === "app") {
@@ -24,7 +24,12 @@ export default function Overview1Component(props) {
               <span>{e.content}</span>
             </div>
             <div className="mt-5">
-              <span className="overview1-btn" onClick={handleClick}>
+              <span
+                className="overview1-btn"
+                onClick={() => {
+                  handleClick(e.slug);
+                }}
+              >
                 <i className="fas fa-plus-square mr-2"></i> Chi tiết
               </span>
             </div>
@@ -47,7 +52,12 @@ export default function Overview1Component(props) {
               <span>{e.content}</span>
             </div>
             <div className="mt-5">
-              <span className="overview1-btn">
+              <span
+                className="overview1-btn"
+                onClick={() => {
+                  handleClick(e.slug);
+                }}
+              >
                 <i className="fas fa-plus-square mr-2"></i> Chi tiết
               </span>
             </div>

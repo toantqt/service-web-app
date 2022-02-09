@@ -1,42 +1,42 @@
 {
     "app": [
         {
-            "image":"https://zinpro.vn/public/anh1/images/app-images/app-quan-ly-benh-vien-01.webp",
-            "title":" App Quản Lý Bệnh Viện ",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1644397566/service-web-app/app/ui/kho_gd_app_suc_khoe_zv9aaq.png",
+            "title":" App Theo Dõi Sức Khỏe",
             "time":"Hoàn thành 15 - 30 ngày"
         },
         {
-            "image":"https://zinpro.vn/public/anh1/images/app-images/app-ba-sy-gia-dinh.webp",
-            "title":"  App Bác Sỹ Gia Đình  ",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1644397566/service-web-app/app/ui/kho_gd_app_bac_si_kyxoix.png",
+            "title":"  App Phòng Khám Online   ",
             "time":"Hoàn thành 15 - 30 ngày"
         },
         {
-            "image":"https://zinpro.vn/public/anh1/images/app-images/app-hoc-truc-tuyen-01.webp",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1644397566/service-web-app/app/ui/kho_gd_app_study_ljjku2.png",
             "title":"  App Khóa Học Trực Tuyến ",
             "time":"Hoàn thành 15 - 30 ngày"
         },
         {
-            "image":"https://zinpro.vn/public/anh1/images/app-images/app-homestay-01.webp",
-            "title":"  App Homestay  ",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1644397566/service-web-app/app/ui/kho_gd_app_food_aifoya.png",
+            "title":"  App Ăn Uống  ",
             "time":"Hoàn thành 15 - 30 ngày"
         },
         {
-            "image":"https://zinpro.vn/public/anh1/images/app-images/app-phong-kham-online-01.webp",
-            "title":"  App Phòng Khám Online  ",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1644397566/service-web-app/app/ui/kho_gd_app_dat_ve_pgtpk9.png",
+            "title":"  App Đặt Vé ",
             "time":"Hoàn thành 20 - 45 ngày"
         },
         {
-            "image":"https://zinpro.vn/public/anh1/images/app-images/app-quan-ly-benh-vien-01.webp",
-            "title":"  App Bệnh viện ",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1644397566/service-web-app/app/ui/kho_gd_app_hen_ho-02_entatj.png",
+            "title":"  App Hẹn Hò ",
             "time":"Hoàn thành 15 - 30 ngày"
         },
         {
-            "image":"https://zinpro.vn/public/anh1/images/app-images/app-spa-01.webp",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1644397566/service-web-app/app/ui/kho_gd_app_spa_dp9xoq.png",
             "title":"  App Doanh nghiệp Spa   ",
             "time":"Hoàn thành 15 - 30 ngày"
         },
         {
-            "image":"https://zinpro.vn/public/anh1/images/app-images/app-tai-chinh-01.webp",
+            "image":"https://res.cloudinary.com/serviced24/image/upload/v1644397567/service-web-app/app/ui/kho_gd_app_tai_chinh_wd9pwi.png",
             "title":"  App Tài Chính  ",
             "time":"Hoàn thành 15 - 30 ngày"
         }

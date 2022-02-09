@@ -19,7 +19,7 @@ export default function SolutionWebComponent(props) {
                 <span className="header-title">Gói Doanh nghiệp</span>
               </div>
               <div className="item-img mt-3">
-                <img src="https://zinpro.vn/public/anh1/files/goi-ap/icon-goi-app-doanh-nghiep.png" />
+                <img src="https://res.cloudinary.com/serviced24/image/upload/v1644372695/service-web-app/web/goi_doanh_nghiep_yshnl0.png" />
               </div>
               <div className="witr_pricing_border mt-3"></div>
               <div className="item-content">
@@ -47,7 +47,7 @@ export default function SolutionWebComponent(props) {
                 <span className="header-title">Gói Bán Hàng</span>
               </div>
               <div className="item-img mt-3">
-                <img src="https://zinpro.vn/public/anh1/files/goi-ap/icon-goi-app-ban-hang.png" />
+                <img src="https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/web_ban_hang_kieixa.png" />
               </div>
               <div className="witr_pricing_border mt-3"></div>
               <div className="item-content">
@@ -76,7 +76,7 @@ export default function SolutionWebComponent(props) {
                 <span className="header-title">Gói Thiết kế theo yêu cầu</span>
               </div>
               <div className="item-img mt-3">
-                <img src="https://zinpro.vn/public/anh1/files/goi-ap/icon-goi-app-thiet-ke-theo-yeu-cau.png" />
+                <img src="https://res.cloudinary.com/serviced24/image/upload/v1644372696/service-web-app/web/goi_theo_yeu_cau_dhic3j.png" />
               </div>
               <div className="witr_pricing_border mt-3"></div>
               <div className="item-content">

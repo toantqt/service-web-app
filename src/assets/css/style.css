@@ -1,12 +1,10 @@
-#bg-img {
-  width: 100%;
-  height: auto;
-  background-image: url("https://zinpro.vn/public/anh1/images/gioi-thieu/bg1-min.webp");
-  background-size: cover;
-}
 .main {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
-  padding-top: 180px;
-  padding-bottom: 200px;
+}
+
+@media (min-width: 1920px) {
+  .intro-wrapper .action {
+    padding-top: 750px !important;
+  }
 }

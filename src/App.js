@@ -8,11 +8,14 @@ import PrintingPage from "./features/Printing/pages/PrintingPage";
 function App() {
   return (
     <HashRouter>
-      <Route exact path="/home" component={LadingPage}></Route>
+      <Route exact path="/" component={LadingPage}></Route>
       <Route exact path="/app" component={AppPage}></Route>
       <Route exact path="/web" component={WebPage}></Route>
       <Route exact path="/contact" component={ContactPage}></Route>
-      <Route exact path="/details" component={DetailsPage}></Route>
+      <Route
+        path="/details"
+        render={(props) => <DetailsPage {...props} />}
+      ></Route>
       <Route
         exact
         path="/in-an"

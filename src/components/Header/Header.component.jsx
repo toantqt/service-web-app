@@ -8,7 +8,7 @@ export default function HeaderComponent() {
     const header = document.getElementById("header");
     const sticky = header.offsetTop;
     const scrollCallBack = window.addEventListener("scroll", () => {
-      if (window.pageYOffset > 10) {
+      if (window.pageYOffset > 60) {
         header.classList.add("sticky");
       } else {
         header.classList.remove("sticky");
@@ -30,18 +30,18 @@ export default function HeaderComponent() {
     <Grid id="header">
       <div className="wrapper">
         <Grid container spacing={1}>
-          <Grid item xs={4} lg={2}>
+          <Grid item xs={4} lg={1} xl={3}>
             <div className="logo">
               <a
                 onClick={() => {
                   handleClick("home");
                 }}
               >
-                <img src="https://design24.vn/Images/dichvu/logomenu.png" />
+                <img src="https://res.cloudinary.com/serviced24/image/upload/v1633589688/logomenu_nliwks.png" />
               </a>
             </div>
           </Grid>
-          <Grid item xs={8} lg={10}>
+          <Grid item xs={8} lg={11} xl={9}>
             <div className="menu-header">
               <ul className="menu">
                 <li

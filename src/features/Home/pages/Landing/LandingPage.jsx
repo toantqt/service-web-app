@@ -20,7 +20,7 @@ export default function LadingPage(props) {
         <HeaderComponent />
         <div className="main">
           <IntroduceComponent />
-          <div className="mt-5">
+          <div>
             <SliderHeadComponent />
           </div>
         </div>

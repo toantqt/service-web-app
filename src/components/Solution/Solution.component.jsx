@@ -21,7 +21,7 @@ export default function SolutionComponent(props) {
                 <span className="header-title">Tổ Chức Doanh Nghiệp</span>
               </div>
               <div className="item-img mt-3">
-                <img src="https://zinpro.vn/public/anh1/files/goi-ap/icon-goi-app-doanh-nghiep.png" />
+                <img src="https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/icon_cho_app-10_b6lm2s.png" />
               </div>
               <div className="witr_pricing_border mt-3"></div>
               <div className="item-content">
@@ -51,7 +51,7 @@ export default function SolutionComponent(props) {
                 <span className="header-title">Cơ Quan Nhà Nước</span>
               </div>
               <div className="item-img mt-3">
-                <img src="https://zinpro.vn/public/anh1/files/goi-ap/icon-goi-app-tai-chinh.png" />
+                <img src="https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/nha_nuoc_d07clz.png" />
               </div>
               <div className="witr_pricing_border mt-3"></div>
               <div className="item-content">
@@ -78,7 +78,7 @@ export default function SolutionComponent(props) {
                 <span className="header-title">Khách Hàng Cá Nhân</span>
               </div>
               <div className="item-img mt-3">
-                <img src="https://zinpro.vn/public/anh1/files/goi-ap/icon-goi-app-ban-hang.png" />
+                <img src="https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/ca_nhan_l4qi72.png" />
               </div>
               <div className="witr_pricing_border mt-3"></div>
               <div className="item-content">
@@ -104,7 +104,7 @@ export default function SolutionComponent(props) {
                 <span className="header-title">Dự Án Lớn</span>
               </div>
               <div className="item-img mt-3">
-                <img src="https://zinpro.vn/public/anh1/files/goi-ap/icon-goi-app-thiet-ke-theo-yeu-cau.png" />
+                <img src="https://res.cloudinary.com/serviced24/image/upload/v1644288771/service-web-app/app/big_project_t7dfom.png" />
               </div>
               <div className="witr_pricing_border mt-3"></div>
               <div className="item-content">
