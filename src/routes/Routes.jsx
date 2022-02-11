@@ -12,6 +12,14 @@ import DatingAppComponent from "../components/Details/DatingApp.component";
 
 import slug from "../resources/slug";
 import SaleWebComponent from "../components/Details/Web/SaleWeb.component";
+import BusinessWebComponent from "../components/Details/Web/BusinessWeb.component";
+import FinanceWebComponent from "../components/Details/Web/FinanceWeb.component";
+import MedicalWebComponent from "../components/Details/Web/MedicalWeb.component";
+import EducationWebComponent from "../components/Details/Web/EducationWeb.component";
+import TravelWebComponent from "../components/Details/Web/TravelWeb.component";
+import FoodWebComponent from "../components/Details/Web/FoodWeb.component";
+import ShippingWebComponent from "../components/Details/Web/ShippingWeb.component";
+import DatingWebComponent from "../components/Details/Web/DatingWeb.component";
 
 export default function Routes(props) {
   return (
@@ -56,6 +64,39 @@ export default function Routes(props) {
         <Route
           path={slug.DETAILS_WEB_1}
           render={() => <SaleWebComponent {...props} />}
+        ></Route>
+        <Route
+          path={slug.DETAILS_WEB_2}
+          render={() => <BusinessWebComponent {...props} />}
+        ></Route>
+        <Route
+          path={slug.DETAILS_WEB_3}
+          render={() => <FinanceWebComponent {...props} />}
+        ></Route>
+        <Route
+          path={slug.DETAILS_WEB_4}
+          render={() => <MedicalWebComponent {...props} />}
+        ></Route>
+        <Route
+          path={slug.DETAILS_WEB_5}
+          render={() => <EducationWebComponent {...props} />}
+        ></Route>
+        <Route
+          path={slug.DETAILS_WEB_6}
+          render={() => <TravelWebComponent {...props} />}
+        ></Route>
+        <Route
+          path={slug.DETAILS_WEB_7}
+          render={() => <FoodWebComponent {...props} />}
+        ></Route>
+        <Route
+          path={slug.DETAILS_WEB_8}
+          render={() => <ShippingWebComponent {...props} />}
+        ></Route>
+
+        <Route
+          path={slug.DETAILS_WEB_9}
+          render={() => <DatingWebComponent {...props} />}
         ></Route>
       </Switch>
     </>

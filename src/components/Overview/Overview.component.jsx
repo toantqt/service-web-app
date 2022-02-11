@@ -4,16 +4,20 @@ import "./overview.css";
 export default function OverviewComponent(props) {
   return (
     <Grid>
-      <div className="overview-wrapper">
+      <div
+        className={
+          "overview-wrapper " + (props?.param === "web" ? "bg-web" : "bg-app")
+        }
+      >
         <div style={{ textAlign: "center" }}>
-          <div>
+          {/* <div>
             <span className="overview-title">{props?.title}</span>
-          </div>
-          <div style={{ fontWeight: 500 }}>
+          </div> */}
+          {/* <div style={{ fontWeight: 500 }}>
             <span>Trang Chủ </span>
             <i class="fas fa-chevron-right"></i>
             &nbsp;<span style={{ color: "#d71700" }}>{props?.title}</span>
-          </div>
+          </div> */}
         </div>
       </div>
     </Grid>

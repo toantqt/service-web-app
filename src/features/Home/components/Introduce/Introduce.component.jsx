@@ -9,12 +9,22 @@ export default function IntroduceComponent(props) {
   const [playVideo, setPlayVideo] = useState(false);
   const handleClose = () => {
     setOpenModal(false);
+    vidRef.current.volume = 0.1;
     vidRef.current.play();
-    vidRef.current.volume = 0.2;
     setPlayVideo(true);
+    sessionStorage.setItem("show", 1);
   };
   useEffect(() => {
-    vidRef.current.pause();
+    if (sessionStorage.getItem("show")) {
+      setOpenModal(false);
+      vidRef.current.volume = 0;
+      vidRef.current.play();
+      setPlayVideo(true);
+    } else {
+      vidRef.current.volume = 0.1;
+      setOpenModal(true);
+      vidRef.current.pause();
+    }
   }, []);
   const handleClickVideo = () => {
     if (playVideo) {
@@ -25,6 +35,7 @@ export default function IntroduceComponent(props) {
       vidRef.current.play();
     }
   };
+  const handleCheckModal = () => {};
   return (
     <Grid style={{ position: "relative" }}>
       <div>

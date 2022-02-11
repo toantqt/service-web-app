@@ -56,13 +56,45 @@ export default function DetailsPage(props) {
           setTitle("Thiết Kế Website Bán Hàng");
           setParam("web");
           break;
+        case slug.DETAILS_WEB_2:
+          setTitle("Thiết Kế Website Doanh Nghiệp");
+          setParam("web");
+          break;
+        case slug.DETAILS_WEB_3:
+          setTitle("Thiết Kế Website Tài Chính");
+          setParam("web");
+          break;
+        case slug.DETAILS_WEB_4:
+          setTitle("Thiết Kế Website Y Tế");
+          setParam("web");
+          break;
+        case slug.DETAILS_WEB_5:
+          setTitle("Thiết Kế Website Giáo Dục");
+          setParam("web");
+          break;
+        case slug.DETAILS_WEB_6:
+          setTitle("Thiết Kế Website Du Lịch");
+          setParam("web");
+          break;
+        case slug.DETAILS_WEB_7:
+          setTitle("Thiết Kế Website Ẩm Thực");
+          setParam("web");
+          break;
+        case slug.DETAILS_WEB_8:
+          setTitle("Thiết Kế Website Vận Chuyển");
+          setParam("web");
+          break;
+        case slug.DETAILS_WEB_9:
+          setTitle("Thiết Kế Website Hẹn Hò");
+          setParam("web");
+          break;
       }
     }
   }, [props]);
   return (
     <Grid>
       <HeaderComponent />
-      <OverviewComponent title={title} />
+      <OverviewComponent param={param} title={title} />
       <Routes />
       <InterfaceComponent param={param} />
       <ContactFormComponent param="bg" />

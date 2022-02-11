@@ -17,7 +17,7 @@ export default function WebPage(props) {
   return (
     <Grid>
       <HeaderComponent />
-      <OverviewComponent title="Thiết Kế Website" />
+      <OverviewComponent title="Thiết Kế Website" param="web" />
       <Overview1Component param="web" />
       <SolutionWebComponent />
       <InterfaceComponent param="web" />

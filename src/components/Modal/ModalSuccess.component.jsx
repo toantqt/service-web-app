@@ -15,6 +15,7 @@ const ModalSuccessComponent = (props) => {
   const history = useHistory();
   const handleClick = () => {
     history.push("/contact");
+    sessionStorage.setItem("show", 1);
   };
   return (
     <Dialog open={props?.open} onClose={props?.handleClose} maxWidth="sm">

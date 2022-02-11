@@ -86,7 +86,7 @@ export default function AboutUSComponent(props) {
           <Grid item lg={6}>
             <div className="about-img">
               <img
-                src="https://scontent-xsp1-3.xx.fbcdn.net/v/t1.6435-9/145755493_221423786289421_7327636287880916277_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=qkBXJOeSVhIAX-ETQBz&_nc_oc=AQm82mz0AvD7dqhYIL8-xRKKRaAsg7zLdPlEtkaA0BysYF4vUVGtjMvxiTMZXUYXnlew7n7TPCsUMHMC_cq9mFeR&tn=9Tl7ngXkQCONF98e&_nc_ht=scontent-xsp1-3.xx&oh=e97a50badde2fbf0df253bba6907f592&oe=60FC69FE"
+                src="https://res.cloudinary.com/serviced24/image/upload/v1644547959/service-web-app/colleagues-giving-fist-bump_1_jqmxot.jpg"
                 width="100%"
               />
             </div>

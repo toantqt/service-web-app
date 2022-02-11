@@ -15,7 +15,7 @@ export default function AppPage(props) {
   return (
     <Grid>
       <HeaderComponent />
-      <OverviewComponent title="App Chuyên Dụng" />
+      <OverviewComponent title="App Chuyên Dụng" param="app" />
       <Overview1Component param="app" />
       <SolutionComponent />
       <InterfaceComponent param="app" />

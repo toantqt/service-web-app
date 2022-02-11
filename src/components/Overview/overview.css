@@ -1,11 +1,16 @@
 .overview-wrapper {
   width: 100%;
   height: 400px;
-  background-image: url("https://zinpro.vn/style/img/slider-1-2.png");
   background-size: cover;
   color: white;
   padding-top: 163px;
   padding-bottom: 118px;
+}
+.bg-web {
+  background-image: url("https://res.cloudinary.com/serviced24/image/upload/v1644549564/service-web-app/banner_web_1400x400_kumvyy.jpg");
+}
+.bg-app {
+  background-image: url("https://res.cloudinary.com/serviced24/image/upload/v1644487066/service-web-app/banner_app_1400x400_1_xykpmi.jpg");
 }
 
 .overview1-wrapper {
