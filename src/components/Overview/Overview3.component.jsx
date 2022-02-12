@@ -6,55 +6,55 @@ export default function Overview3Component(props) {
   const data = [
     {
       image:
-        "https://zinpro.vn/public/anh1/files/tinh-nang-noi-bat/kich-thuoc-nho.png",
+        "https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/nho_gon_p6xyts.jpg",
       title: "KÍCH THƯỚC NHỎ",
       content:
         "Tối ưu kích thước ứng dụng giúp cài đặt ứng dụng nhanh chóng và ít bị xóa hơn.",
     },
     {
       image:
-        "https://zinpro.vn/public/anh1/files/tinh-nang-noi-bat/tic-diem-thanh-vien.png",
+        "https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/tich_diem_ch2ybx.jpg",
       title: "TÍCH ĐIỂM THÀNH VIÊN",
       content:
         "Tất cả những thông tin về điểm thưởng, thăng hạng thành viên và lịch sử",
     },
     {
       image:
-        "https://zinpro.vn/public/anh1/files/tinh-nang-noi-bat/doi-thuong.png",
+        "https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/doi_thuog_wgfdko.jpg",
       title: "ĐỔI THƯỞNG",
       content: "Thống kê danh sách phần thưởng, khách hàng nhận thưởng",
     },
     {
       image:
-        "https://zinpro.vn/public/anh1/files/tinh-nang-noi-bat/bao-cao.png",
+        "https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/bao_cao_y0jfdo.jpg",
       title: "BÁO CÁO",
       content:
         "Báo cáo các số liệu liên quan đến khách hàng và ưu đãi theo tiêu chí.",
     },
     {
       image:
-        "https://zinpro.vn/public/anh1/files/tinh-nang-noi-bat/marketing.png",
+        "https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/marketing_gtvrrh.jpg",
       title: "MARKETING",
       content:
         "Nền tảng duy nhất triển khai hệ thống đồng bộ trên ứng dụng và website",
     },
     {
       image:
-        "https://zinpro.vn/public/anh1/files/tinh-nang-noi-bat/E-COMMERCE.png",
+        "https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/ecom_fseiik.jpg",
       title: "E-COMMERCE",
       content:
         "Cho phép khách hàng thực hiện các thao tác mua sản phẩm/ dịch vụ",
     },
     {
       image:
-        "https://zinpro.vn/public/anh1/files/tinh-nang-noi-bat/danh-gia.png",
+        "https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/danh_gia_aktqkk.jpg",
       title: "ĐÁNH GIÁ",
       content:
         "Cho phép khánh hàng đưa ra đánh giá về chất lượng sản phẩm, dịch vụ",
     },
     {
       image:
-        "https://zinpro.vn/public/anh1/files/tinh-nang-noi-bat/noi-dung.png",
+        "https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/noi_ding_jshn49.jpg",
       title: "NỘI DUNG",
       content: "Quản lý nội mọi nội dung mà doanh nghiệp muốn thông tin",
     },
@@ -78,7 +78,7 @@ export default function Overview3Component(props) {
   return (
     <Grid>
       <div className="overview3-wrapper">
-        <div style={{ width: "60%", margin: "0 auto", textAlign: "center" }}>
+        <div style={{ width: "70%", margin: "0 auto", textAlign: "center" }}>
           <span className="overview2-title">
             Những Tính Năng Tốt Nhất Mà DESIGN24 Mang Lại Cho Doanh Nghiệp Của
             Bạn

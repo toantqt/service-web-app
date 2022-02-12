@@ -27,7 +27,7 @@ export default function Overview2Component(props) {
                 <Grid item lg={2}>
                   <div>
                     <img
-                      src="https://zinpro.vn/public/anh1/files/tai-sao/icon-M%C3%A3-Ngu%E1%BB%93n-T%E1%BB%91i-%C6%AFu%2C-M%C3%A1y-Ch%E1%BB%A7-Cao-C%E1%BA%A5p.-Nh%E1%BA%ADn-%E1%BB%A8ng-D%E1%BB%A5ng-Di-%C4%90%E1%BB%99ng-Sau-7-Ng%C3%A0y.png"
+                      src="https://res.cloudinary.com/serviced24/image/upload/v1644635099/service-web-app/icon/toi_uu_xkejfh.jpg"
                       width="100%"
                     />
                   </div>
@@ -56,7 +56,7 @@ export default function Overview2Component(props) {
                 <Grid item lg={2}>
                   <div>
                     <img
-                      src="https://zinpro.vn/public/anh1/files/tai-sao/icon-H%E1%BB%97-Tr%E1%BB%A3-B%C3%A1n-H%C3%A0ng-Chuy%C3%AAn-Nghi%E1%BB%87p.png"
+                      src="https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/ban_hang_tygfr5.jpg"
                       width="100%"
                     />
                   </div>
@@ -84,7 +84,7 @@ export default function Overview2Component(props) {
                 <Grid item lg={2}>
                   <div>
                     <img
-                      src="https://zinpro.vn/public/anh1/files/tai-sao/icon-H%E1%BB%97-Tr%E1%BB%A3-X%E1%BB%AD-L%C3%BD-M%E1%BB%8Di-V%E1%BA%A5n-%C4%90%E1%BB%81-Li%C3%AAn-Quan-%C4%90%E1%BA%BFn-K%E1%BB%B9-Thu%E1%BA%ADt.png"
+                      src="https://res.cloudinary.com/serviced24/image/upload/v1644635098/service-web-app/icon/ky_thuat_yd40qt.jpg"
                       width="100%"
                     />
                   </div>

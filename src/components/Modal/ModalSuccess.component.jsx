@@ -13,12 +13,14 @@ import { useHistory } from "react-router-dom";
 import "./modal.css";
 const ModalSuccessComponent = (props) => {
   const history = useHistory();
-  const handleClick = () => {
-    history.push("/contact");
-    sessionStorage.setItem("show", 1);
-  };
+
   return (
-    <Dialog open={props?.open} onClose={props?.handleClose} maxWidth="sm">
+    <Dialog
+      open={props?.open}
+      onClose={props?.handleClose}
+      maxWidth="sm"
+      className="wrap-modal"
+    >
       <Box position="absolute" top={0} right={0}>
         <IconButton onClick={props?.handleClose} style={{ color: "white" }}>
           <Close />
@@ -27,17 +29,18 @@ const ModalSuccessComponent = (props) => {
       <DialogContent
         style={{
           textAlign: "center",
-          height: "200px",
         }}
         className="mt-3"
       >
         <DialogTitle style={{ color: "white" }}>
           {" "}
-          Cảm ơn bạn đã quan tâm đến Học viện Design24 <br /> Bạn có nhu cầu tư
-          vấn?
+          <span className="title-modal">
+            Cảm ơn bạn đã quan tâm đến Học viện Design24 <br /> Bạn có nhu cầu
+            tư vấn?
+          </span>
         </DialogTitle>
         <div className="modal-btn">
-          <a className="btn-yes" onClick={handleClick}>
+          <a className="btn-yes" onClick={props?.handleClick}>
             {" "}
             Có
           </a>

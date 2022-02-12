@@ -2,13 +2,16 @@ import React, { useEffect, useRef, useState } from "react";
 import Grid from "@material-ui/core/Grid";
 import video from "../../../../assets/video/video.mp4";
 import ModalSuccessComponent from "../../../../components/Modal/ModalSuccess.component";
+import ModalFormContactComponent from "../../../../components/Modal/ModalFormContact.component";
 
 export default function IntroduceComponent(props) {
   const vidRef = useRef(null);
   const [openModal, setOpenModal] = useState(true);
+  const [openModalContact, setOpenModalContact] = useState(false);
   const [playVideo, setPlayVideo] = useState(false);
   const handleClose = () => {
     setOpenModal(false);
+    setOpenModalContact(false);
     vidRef.current.volume = 0.1;
     vidRef.current.play();
     setPlayVideo(true);
@@ -36,6 +39,11 @@ export default function IntroduceComponent(props) {
     }
   };
   const handleCheckModal = () => {};
+  const handleClick = () => {
+    setOpenModal(false);
+    setOpenModalContact(true);
+    sessionStorage.setItem("show", 1);
+  };
   return (
     <Grid style={{ position: "relative" }}>
       <div>
@@ -76,7 +84,16 @@ export default function IntroduceComponent(props) {
           </span>
         </div>
       </div>
-      <ModalSuccessComponent open={openModal} handleClose={handleClose} />
+      <ModalSuccessComponent
+        open={openModal}
+        handleClose={handleClose}
+        handleClick={handleClick}
+      />
+
+      <ModalFormContactComponent
+        open={openModalContact}
+        handleClose={handleClose}
+      />
     </Grid>
   );
 }
