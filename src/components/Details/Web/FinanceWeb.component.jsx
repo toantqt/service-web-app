@@ -140,7 +140,7 @@ export default function FinanceWebComponent(props) {
                       <span
                         style={{ color: "rgb(190,30,45)", fontWeight: 500 }}
                       >
-                        Hotline 0835-299-922
+                        Hotline 0784.888.009 - 0704.888.009
                       </span>
                     </div>
                   </Grid>

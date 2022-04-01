@@ -27,7 +27,9 @@ export default function ContactComponent(props) {
                 </Grid>
                 <Grid item lg={10}>
                   <div>
-                    <span style={{ fontWeight: 500 }}>0784.888.009</span>
+                    <span style={{ fontWeight: 500 }}>
+                      0784.888.009 - 0704.888.009
+                    </span>
                   </div>
                 </Grid>
               </Grid>

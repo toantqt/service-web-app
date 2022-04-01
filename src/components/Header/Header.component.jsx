@@ -32,11 +32,7 @@ export default function HeaderComponent() {
         <Grid container spacing={1}>
           <Grid item xs={4} lg={1} xl={3}>
             <div className="logo">
-              <a
-                onClick={() => {
-                  handleClick("home");
-                }}
-              >
+              <a href="design24.vn">
                 <img src="https://res.cloudinary.com/serviced24/image/upload/v1633589688/logomenu_nliwks.png" />
               </a>
             </div>
