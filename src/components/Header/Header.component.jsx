@@ -22,6 +22,8 @@ export default function HeaderComponent() {
   const handleClick = (param) => {
     if (param === "home") {
       history.push("/");
+    } else if (param === "design24") {
+      window.location.href = "https://design24.vn/";
     } else {
       history.push(`/${param}`);
     }
@@ -32,7 +34,11 @@ export default function HeaderComponent() {
         <Grid container spacing={1}>
           <Grid item xs={4} lg={1} xl={3}>
             <div className="logo">
-              <a href="design24.vn">
+              <a
+                onClick={() => {
+                  handleClick("design24");
+                }}
+              >
                 <img src="https://res.cloudinary.com/serviced24/image/upload/v1633589688/logomenu_nliwks.png" />
               </a>
             </div>
